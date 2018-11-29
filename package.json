@@ -1,0 +1,22 @@
+{
+  "name": "plural-magic",
+  "version": "0.0.1",
+  "description": "A library to handle your plurals properly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steoneill/plural-magic.git"
+  },
+  "keywords": [
+    "plural"
+  ],
+  "author": "Ste O'Neill <hi@steoneill.me> (https://www.steoneill.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steoneill/plural-magic/issues"
+  },
+  "homepage": "https://github.com/steoneill/plural-magic#readme"
+}
