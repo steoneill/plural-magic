@@ -8,5 +8,6 @@
  */
 
 module.exports = function(count, item) {
-  return `${item}${count > 1 && `s`}`;
+  if (count > 1) return item + "s";
+  return item;
 };
